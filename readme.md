@@ -25,3 +25,6 @@ nodejs-mysql/
     npm install mysql
 ```
 
+# License
+&copy;[triabagus](https://github.com/triabagus)
+
