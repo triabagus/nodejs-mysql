@@ -7,8 +7,10 @@ nodejs-mysql/
 ├── create_table.js
 ├── db_config.js
 ├── delete.js
+├── drop_table.js
 ├── insert.js
 ├── insert_multi.js
+├── limit.js
 ├── read.js
 └── update.js
 ```
