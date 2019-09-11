@@ -24,7 +24,10 @@ nodejs-mysql/
 ```bash
     npm install mysql
 ```
-
+# Running
+```bash
+    node <name_file>
+```
 # License
-&copy;[triabagus](https://github.com/triabagus)
+&copy; [triabagus](https://github.com/triabagus)
 
