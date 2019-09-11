@@ -6,7 +6,16 @@ var db = mysql.createConnection({
     password: "1"
 });
 
-db.connect(function (err) { 
-    if (err) throw err;
-    console.log("Connected");
-});
+/**
+ * cek connect database mysql
+ */
+
+// db.connect(function (err) { 
+//     if (err) throw err;
+//     console.log("Connected");
+// }); 
+
+/**
+ * export module
+ */
+module.exports = db;
